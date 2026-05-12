@@ -1,4 +1,4 @@
-# 
+# Enhance Obsidian for Windows with Obsidian for Windows new Plugin: tags & database-creation, the #1 plugin. Includes tags and database-creation for a smoother and more productive
 
 
 
